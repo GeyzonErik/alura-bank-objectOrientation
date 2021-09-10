@@ -1,0 +1,12 @@
+{
+  "name": "alurabank",
+  "version": "1.0.0",
+  "description": "Projeto bytebank desenvolvido no curso de JS orientação a objeto da alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geyzon",
+  "license": "ISC",
+  "type": "module"
+}
